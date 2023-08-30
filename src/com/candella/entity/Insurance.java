@@ -27,6 +27,7 @@ public class Insurance {
 		Amount = amount;
 		CoverageLimit = coverageLimit;
 		AgeLimit = ageLimit;
+		
 	}
 	public Insurance() {
 		// TODO Auto-generated constructor stub
