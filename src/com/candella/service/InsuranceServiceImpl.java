@@ -10,7 +10,7 @@ public class InsuranceServiceImpl implements InsuranceService {
 	 private InsuranceDAOImpl insuranceDAO;
 
 	    public InsuranceServiceImpl() {
-	        // Initialize the DAO implementation
+	        //   Initialize the DAO implementation
 	       insuranceDAO = new InsuranceDAOImpl();
 	    }
 
