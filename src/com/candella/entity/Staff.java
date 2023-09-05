@@ -62,7 +62,7 @@ public class Staff {
 	}
 	
 	@Override
-	public String toString() {
+	public String toString() {    
 		return "Staff [staffId=" + staffId + ", staffName=" + staffName + ", staffAddress=" + staffAddress + ", dob="
 				+ dob + ", gender=" + gender + ", bloodGroup=" + bloodGroup + ", phoneNo=" + phoneNo + "]";
 	}
