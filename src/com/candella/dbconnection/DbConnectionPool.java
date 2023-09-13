@@ -1,7 +1,7 @@
 package com.candella.dbconnection;
 
 import java.beans.PropertyVetoException;
-import java.io.FileInputStream;
+import java.io.FileInputStream; 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
