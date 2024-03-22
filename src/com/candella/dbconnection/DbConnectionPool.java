@@ -8,7 +8,7 @@ import java.util.Properties;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 
-public class DbConnectionPool {
+public class DbConnectonPool {
 	
 	private static ComboPooledDataSource dataSource;
 	static {
